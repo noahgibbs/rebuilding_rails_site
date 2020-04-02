@@ -35,3 +35,8 @@ img.block-logo {
 
 	box-shadow: 3px 3px 3px 3px #ccc;
 }
+
+.gumroad-button {
+	box-shadow: 5px 5px 5px 5px #ccc;
+	border: 2px solid red;
+}
