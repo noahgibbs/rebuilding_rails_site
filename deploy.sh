@@ -1,1 +1,1 @@
-git push && ssh noah@madrubyscience.com ". ~/.bash_profile && cd checkouts/rebuilding_rails && git pull"
+git push && ssh deployer@madrubyscience.com "cd checkouts/rebuilding_rails_site && git pull"
